@@ -9,7 +9,7 @@ Before running the application,
 
 # Prerequisites
 
-1. Download Android Studio and SDK Tools: You can download it at the Android Developer website.
+1. Download Android Studio and SDK Tools: You can download it at the <a href="https://developer.android.com/sdk/index.html"> Android Developer website</a>.
 2. Clone it from GitHub
 
 
