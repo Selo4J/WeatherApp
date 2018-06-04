@@ -3,11 +3,16 @@
 
 ##### -By Selomon Goitom email: selomongoitom@gmail.com or tomsol28@yahoo.co.uk
 
+
 ### Weather App Screenshot
 
+<img width="276" alt="screen shot 2018-06-04 at 01 19 20" src="https://user-images.githubusercontent.com/28166699/40902836-49d12b36-67cd-11e8-9d2b-8c3b84844273.png">
 
 
-Follow the documentation 
+
+
+
+#### Follow the documentation 
 
 Before running the application,
 
