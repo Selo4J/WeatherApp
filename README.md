@@ -6,9 +6,13 @@
 
 ### Weather App Screenshot
 
-<img width="276" alt="screen shot 2018-06-04 at 01 19 20" src="https://user-images.githubusercontent.com/28166699/40902836-49d12b36-67cd-11e8-9d2b-8c3b84844273.png">
+#### Weather Forecast Splash 
 
+<img width="275" alt="screen shot 2018-06-05 at 14 40 05" src="https://user-images.githubusercontent.com/28166699/40979879-fc11edce-68ce-11e8-9a66-ba46b768d1ef.png">
 
+#### Weather Forecast Screen
+
+<img width="275" alt="weatheapp-screen shot" src="https://user-images.githubusercontent.com/28166699/40979864-f07e0010-68ce-11e8-82db-ca1912fc3760.png">
 
 
 
