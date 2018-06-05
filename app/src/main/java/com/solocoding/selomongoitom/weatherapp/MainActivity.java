@@ -27,7 +27,6 @@ public class MainActivity extends AppCompatActivity {
         currentTemperatureField = findViewById(R.id.current_temperature_field);
         humidity_field = findViewById(R.id.humidity_field);
         pressure_field = findViewById(R.id.pressure_field);
-       // wind_field = (TextView)findViewById(R.id.wind_field);
         weatherIcon = findViewById(R.id.weather_icon);
         weatherIcon.setTypeface(weatherFont);
 
@@ -38,10 +37,9 @@ public class MainActivity extends AppCompatActivity {
                 cityField.setText(weather_city);
                 updatedField.setText(weather_updatedOn);
                 detailsField.setText(weather_description);
-                currentTemperatureField.setText(weather_temperature);
+                currentTemperatureField.setText(weather_temperature +"C");
                 humidity_field.setText("Humidity: "+weather_humidity);
                 pressure_field.setText("Pressure: "+weather_pressure);
-                //wind_field.setText("Wind Speed: "+weather_wind);
                 weatherIcon.setText(Html.fromHtml(weather_iconText));
 
             }
