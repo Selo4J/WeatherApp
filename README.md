@@ -1,6 +1,8 @@
-# WeatherApp 
-##### Creating a Weather App on Android
 
+# Weather Forecast App Demo
+
+##### Creating a Weather App on Android
+Weather forecast app is a weather channel which has accurate weather information that it updates regularly based on Falmouth, GB.
 ##### -By Selomon Goitom email: selomongoitom@gmail.com or tomsol28@yahoo.co.uk
 
 
